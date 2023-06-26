@@ -26,5 +26,6 @@
 	<classpathentry kind="lib" path="D:/sahil learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-remote-driver-3.141.0.jar"/>
 	<classpathentry kind="lib" path="D:/sahil learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-safari-driver-3.141.0.jar"/>
 	<classpathentry kind="lib" path="D:/sahil learn/Automation testing/Sahilselenium/jar_files/jar_files/selenium-support-3.141.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

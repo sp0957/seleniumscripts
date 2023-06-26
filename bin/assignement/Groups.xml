@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test">
+	<test name="Test1">
+		<classes>
+			<class name="assignement.Question13" />
+			</classes>
+			<groups>
+				<run>
+					<include name="red" />
+				</run>
+			</groups>
+		
+	</test>
+</suite>
